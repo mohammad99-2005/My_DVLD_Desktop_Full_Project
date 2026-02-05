@@ -66,8 +66,3 @@ Through building DVLD, I mastered:
 * Managing **application state** and user sessions securely.
 * Writing **clean, reusable code** that is easy to debug and extend.
 
----
-
-## 📞 Contact
-**[Your Name]** * [LinkedIn Profile Link]
-* [Email Address]
